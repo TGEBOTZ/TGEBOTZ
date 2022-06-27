@@ -64,5 +64,5 @@
 <b>𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒</b>
 </p>
 <p align="center">
-<img width="50%" src="https://gpvc.arturio.dev/Mo-Tech-MRK-YT" alt="Profile views" />
+<img width="50%" src="https://gpvc.arturio.dev/Inbliz" alt="Profile views" />
 </p>
