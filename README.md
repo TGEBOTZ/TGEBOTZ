@@ -42,7 +42,7 @@
 </p>
 <p align="center">
 <a href="https://telegram.dog/inbliz"><img alt="telegram" src="https://img.shields.io/badge/Updates-%22B1B17.svg?&logo=telegram&logoColor=white"></a>
-<a href="https://youtube.com/channel/UCrH7x4ukPY-3hSm_mamK4xg"><img src="https://img.shields.io/badge/Mo-Tech-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
+<a href="https://youtube.com/channel/UCrH7x4ukPY-3hSm_mamK4xg"><img src="https://img.shields.io/badge/Inbliz-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
 <a href="https://telegram.dog/Mnzks"><img alt="telegram" src="https://img.shields.io/badge/Group-%22B1B17.svg?&logo=telegram&logoColor=white"></a>
 
 ----
