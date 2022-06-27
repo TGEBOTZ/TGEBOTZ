@@ -53,9 +53,9 @@
 
 
 <p align="center">
-<a href="https://github.com/Inbliz/Inbliz/" title="Inbliz"> <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr0fess0r-99&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=false" /> </a>
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=PR0FESS0R-99&custom_title=Contribution+Graph&theme=xcode"/>
-<a href="https://github.com/Inbliz/Inbliz/" title="Inbliz"> <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=pr0fess0r-99&show_icons=true&theme=react&border_color=61dafb&hide_border=false" /> </a>
+<a href="https://github.com/Inbliz/Inbliz/" title="Inbliz"> <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inbliz&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=false" /> </a>
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Inbliz&custom_title=Contribution+Graph&theme=xcode"/>
+<a href="https://github.com/Inbliz/Inbliz/" title="Inbliz"> <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Inbliz&show_icons=true&theme=react&border_color=61dafb&hide_border=false" /> </a>
 </p>
 
 --------------------
