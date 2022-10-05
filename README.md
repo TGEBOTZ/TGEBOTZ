@@ -1,4 +1,4 @@
-| ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝐄+M+O+J+I) | ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝐃𝐄𝐓𝐀𝐈𝐋𝐒 ) | ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝐈𝐍𝐅𝐎 ) |
+| EMOJI | DETAILS | INFO  |
 | ---- | ---- | ---- |
 | 🤵 | Name | MuzaFir |
 | 🗓️ | Age | 20 |
