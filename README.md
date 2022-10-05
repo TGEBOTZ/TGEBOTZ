@@ -7,8 +7,8 @@
 
 
 <p align="center">
-    <a href="https://t.me/space4renjith">
-        <img alt="GPL3" src ="https://telegra.ph/file/302b2640dd60d6c830cf7.jpg" width="340" height="214"/>
+    <a href="https://t.me/inbliz">
+        <img alt="GPL3" src ="https://telegra.ph/file/7fa0ae809b8fa0754e4bc.jpg" width="340" height="214"/>
     </a>
 </p>
 
