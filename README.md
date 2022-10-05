@@ -6,11 +6,6 @@
 | 📣 | Language | Malayalam |
 
 
-<p align="center">
-    <a href="https://t.me/inbliz">
-        <img alt="GPL3" src ="https://telegra.ph/file/b05548ba616d157d51225.png" width=300" height="100"/>
-    </a>
-</p>
 
  <p align="center"> 
       <a href="https://t.me/inbliz">
