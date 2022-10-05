@@ -1,4 +1,4 @@
-| EMOJI | DETAILS | INFO  |
+|EMOJI|DETAILS|INFO|
 | ---- | ---- | ---- |
 | 🤵 | Name | MuzaFir |
 | 🗓️ | Age | 20 |
