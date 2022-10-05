@@ -1,4 +1,4 @@
-| ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝙄𝙈𝙊𝙅𝙄) | ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Details ) | ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Info) |
+| ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝐈𝐌𝐎𝐉𝐈 ) | ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝐃𝐄𝐓𝐀𝐈𝐋𝐒 ) | ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝐈𝐍𝐅𝐎 ) |
 | ---- | ---- | ---- |
 | 🤵 | Name | MuzaFir |
 | 🗓️ | Age | 20 |
