@@ -2,5 +2,5 @@
 | ---- | ---- | ---- |
 | 🤵 | Name | MuzaFir |
 | 📆 | Age| 20 |
-| 🏞️ | Place | Kerala Ernakulam |
+| 🏞️ | Place | Kerala - Ernakulam |
 | 📣 | Language | Malayalam |
