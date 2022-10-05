@@ -19,7 +19,7 @@
    </p>
 
  <p align="center">
-      <a href="your-instagram-URL">
+      <a href="https://instagram.com/muzafir____?igshid=YmMyMTA2M2Y=">
        <img src="https://img.shields.io/badge/Instagram-800e56?style=for-the-badge&logo=instagram&logoColor=white"
    alt="Instagram Badge"/>
    </p>
