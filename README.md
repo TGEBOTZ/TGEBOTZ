@@ -1,4 +1,4 @@
-| Emoji | Details | Info |
+| ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Emoji) | Details | Info |
 | ---- | ---- | ---- |
 | 🤵 | Name | MuzaFir |
 | 🗓️ | Age | 20 |
