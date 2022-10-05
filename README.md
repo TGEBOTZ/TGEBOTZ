@@ -17,6 +17,7 @@
        <img src="https://img.shields.io/badge/Telegram-1f98d3?style=for-the-badge&logo=Telegram&logoColor=white"
    alt="Telegram Badges"/> 
    </p>
+
  <p align="center">
       <a href="your-instagram-URL">
        <img src="https://img.shields.io/badge/Instagram-800e56?style=for-the-badge&logo=instagram&logoColor=white"
