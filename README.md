@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="https://t.me/inbliz">
-        <img alt="GPL3" src ="https://telegra.ph/file/76e0c047918dcf8d32ea7.jpg" width="340" height="214"/>
+        <img alt="GPL3" src ="https://telegra.ph/file/4041a2956f2b0d4dbed29.jpg" width="340" height="214"/>
     </a>
 </p>
 
